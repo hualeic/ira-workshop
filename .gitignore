@@ -8,3 +8,14 @@
 # 其他文件
 CODING_STYLE.md
 QwenPaw技术方案报告.md
+.pytest_cache/
+.coverage
+.coverage.*
+.qoder/
+.vite/
+/node_modules/
+/dist/
+*.pyc
+__pycache__/
+
+nul
